@@ -1,17 +1,18 @@
-## Hi there, I'm Javier 👋
+# Javier Vega Juanes | Software Engineering & Infrastructure
 
-**Building secure, scalable, and automated infrastructure.**
+Software Engineering student focused on building scalable backend systems, distributed architectures, and robust cloud infrastructure. Deeply interested in the intersection of low-level performance as well as embodied engineering and the DevOps/MLOps culture to deploy systems at scale.
 
-I'm a 2nd-year Computer Engineering student at [Universidad de Jaén (UJA)], pivoting from pure software development to **Platform Engineering & DevSecOps**. I don't just write code; I focus on architecting the cloud infrastructure and security layers that keep systems alive in production.
+### 🛠 Tech Stack & Tools
+*   **Languages:** C/C++, Python, SQL (Oracle/PLSQL). *(Learning Go for microservices and cloud ecosystem)*
+*   **Infrastructure & Operations:** Linux, Docker, Git.
+*   **Cloud & DevOps:** Currently learning the DevOps culture and cloud ecosystem.
+*   **Domain Focus:** Concurrent Systems, Distributed Architecture, and AI Infrastructure (MLOps).
 
-### 🛠️ Tech Stack & Arsenal
+### 🚀 Current Focus
+*   Applying systems programming concepts to build foundational infrastructure (e.g., concurrent TCP servers, memory-optimized algorithms).
+*   Bridging the gap between software engineering and operations by adopting DevOps practices and exploring how to serve AI models efficiently.
 
-* **The Metal (Backend):** Go (Golang), C++
-* **The Vault (Data):** PostgreSQL, SQL
-* **The Cloud (Infra/Ops):** Docker, Linux (Red Hat)
-* **Currently Mastering:** Kubernetes (K8s), Terraform, CI/CD Pipelines
-
-### 🎯 Current Focus
-Transitioning from monolithic local development to distributed cloud environments. Currently building highly concurrent, stateless APIs in Go and exploring how to securely orchestrate them at scale.
-
+### 📫 Connect
+*   [LinkedIn] www.linkedin.com/in/javier-vega-juanes-636309375
+*   **Location:** Linares, Spain 
 ---
